@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Auth Automation Suite">
+    <test name="Login and Forgot Password Tests">
+        <classes>
+            <class name="com.galaxyai.tests.LoginTest"/>
+            <class name="com.galaxyai.tests.ForgotPasswordTest"/>
+        </classes>
+    </test>
+</suite>
