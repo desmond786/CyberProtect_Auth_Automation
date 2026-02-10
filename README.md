@@ -12,10 +12,10 @@ Design Pattern: Page Object Model (POM)
 📋 **Prerequisites**
 Before running the tests, ensure you have the following installed:
 
-Java Development Kit (JDK): Version 11 or higher.
-Apache Maven: For dependency management and test execution.
+Java Development Kit (JDK): Version 17 or higher.
+Apache Maven: For dependency management and test execution.(Please install maven)
 Google Chrome: Latest stable version.
-WebDriver: The framework uses automatic driver management, but ensure Chrome is installed in the default path.
+WebDriver: The framework uses automatic driver management, but ensure Chrome is installed in the default path.(Updated Chrome)
 
 ⚙️ **Configuration & Test Data**
 All environment-specific data is managed in src/test/resources/config.properties.
