@@ -29,14 +29,17 @@ Running Locally
 Open your terminal in the project root folder (auth-automation)and use the following commands:
 
 **Run All Tests (Suite):**
+Got to project folder in terminal then-
 Bash
 mvn clean test
 
 **Run Login Flow Only:**
+Got to project folder in terminal then-
 Bash
 mvn clean test -Dtest=LoginTest
 
 **Run Forgot Password Flow Only:**
+Got to project folder in terminal then-
 Bash
 mvn clean test -Dtest=ForgotPasswordTest
 
